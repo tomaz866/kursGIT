@@ -1,1 +1,3 @@
  Super repo repo Tomek.
+
+ Dalsze zmiany w pliku.
